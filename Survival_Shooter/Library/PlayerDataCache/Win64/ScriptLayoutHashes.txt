@@ -1,6 +1,6 @@
 Win64
 PlayerPath?
-D:/JCU/2019/SP1/CP3408 - Game Engine and Simulation/Survival Shooter/Survival-Shooter-Workshop/Survival_Shooter/Builds/Week 6 Build/Survival Shooter.exe
+D:/JCU/2019/SP1/CP3408 - Game Engine and Simulation/Survival Shooter/Survival-Shooter-Workshop/Survival_Shooter/Builds/Week 7 Build/Survival Shooter.exe
 SceneListBegin?
 Assets/Scenes/Level 01.unity
 SceneListEnd?
